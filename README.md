@@ -1,5 +1,5 @@
 # truco-monte-carlo
-###Um Simualdor de Monte Carlo a fim de criar 10000 partidas de truco para pegar probabilidades em cima disso
+### Um Simualdor de Monte Carlo a fim de criar 10000 partidas de truco para pegar probabilidades em cima disso
 
 Qual a probabilidade do time que inicia a partida ganhar?
 
